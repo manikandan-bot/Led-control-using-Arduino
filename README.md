@@ -65,11 +65,9 @@ Weighing Machines </br>
 
 
 ## OUTPUT
-ON
+
 ![Screenshot 2024-11-20 132447](https://github.com/user-attachments/assets/5f255d29-962e-4e82-89ba-048603c3b868)
 
-
-OFF
 ![Screenshot 2024-11-20 132459](https://github.com/user-attachments/assets/4815b24d-ffb0-4396-80ca-f2e593285a0a)
 
 ## RESULT
